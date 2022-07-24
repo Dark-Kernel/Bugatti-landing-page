@@ -1,6 +1,11 @@
 
 body, p {
 	
-	color: red;
+
 
 }
+
+
+iframe[seamless] {
+	    border: none;
+    }
